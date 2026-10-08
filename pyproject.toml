@@ -1,0 +1,9 @@
+[project]
+name = "text-extractor-api"
+version = "0.1.0"
+description = "Text extraction REST API"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
